@@ -7,7 +7,7 @@ using Computer Vision algorithms._ **Image processing and CNN models** were util
 Acne concern level. With these data points, products with high **cosine-similarity** were recommended in the order of their relevance.
 The web application was written in React-Flask.
 
-[Read more...]((https://drive.google.com/file/d/1DnBi8a-FR8ZQ1YBgLZM3F-ccVu4QD-Co/view?usp=sharing))
+[Read more...](https://drive.google.com/file/d/1DnBi8a-FR8ZQ1YBgLZM3F-ccVu4QD-Co/view?usp=sharing)
 
 
 # Web Application
